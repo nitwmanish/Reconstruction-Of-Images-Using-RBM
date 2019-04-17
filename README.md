@@ -1,3 +1,3 @@
-# Dimensionality-Reduction-And-Feature-Extraction-Using-RBM
-Dimensionality Reduction And Feature Extraction With Restricted Boltzmann Machine(RBM)
-This is working code for Dimensionality Reduction And Feature Extraction With RBM on MNIST dataset
+
+This is hands on Jupyter Notebook on dimensionality reduction and feature extraction with RBM on MNIST dataset,
+Accompanied post for this Jupyter Noteboo can be found on this link.
